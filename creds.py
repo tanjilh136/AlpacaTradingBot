@@ -9,26 +9,25 @@ class AlpakaCreds:
 
 
 class AlpakaCreds2(AlpakaCreds):
-    #hridoyhawladar@live.com
-    #@Hridoy.123@
-    API_KEY = 'PKQVZR28E51065YCHLBN'
-    SECRET_KEY = 'dma2GF5eLQLygLTUbNsoqan4RNrNnO8amc9SrxY6'
+ 
+    API_KEY = ' '
+    SECRET_KEY = ' '
     BASE_URL = 'https://paper-api.alpaca.markets'  # Change this url when live trading
 
 
 class AlpakaCreds3(AlpakaCreds):
-    API_KEY = 'PKKH739U5XB7YIUBKON3'
-    SECRET_KEY = 'my9NXbHcjQ0LwJPntGxnun1oPdGi635zdOEAoLMv'
+    API_KEY = ' '
+    SECRET_KEY = ' '
     BASE_URL = 'https://paper-api.alpaca.markets'  # Change this url when live trading
 
 
 class AlpakaCreds4(AlpakaCreds):
-    API_KEY = 'PKKH739U5XB7YIUBKON3'
-    SECRET_KEY = 'my9NXbHcjQ0LwJPntGxnun1oPdGi635zdOEAoLMv'
+    API_KEY = ' '
+    SECRET_KEY = ' '
     BASE_URL = 'https://paper-api.alpaca.markets'  # Change this url when live trading
 
 
 class AlpakaCreds5(AlpakaCreds):
-    API_KEY = 'PKKH739U5XB7YIUBKON3'
-    SECRET_KEY = 'my9NXbHcjQ0LwJPntGxnun1oPdGi635zdOEAoLMv'
+    API_KEY = ' '
+    SECRET_KEY = ' '
     BASE_URL = 'https://paper-api.alpaca.markets'  # Change this url when live trading
