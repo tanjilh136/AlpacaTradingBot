@@ -3,8 +3,8 @@ class PolygonCreds:
 
 
 class AlpakaCreds:
-    API_KEY = 'PKKH739U5XB7YIUBKON3'
-    SECRET_KEY = 'my9NXbHcjQ0LwJPntGxnun1oPdGi635zdOEAoLMv'
+    API_KEY = '___________'
+    SECRET_KEY = '________________________'
     BASE_URL = 'https://paper-api.alpaca.markets'  # Change this url when live trading
 
 
