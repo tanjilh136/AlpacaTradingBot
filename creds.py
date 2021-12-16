@@ -1,5 +1,5 @@
 class PolygonCreds:
-    secret_key = "Zay2cQZwZfUTozLiLmyprY4Sr3uK27Vp"
+    secret_key = ""
 
 
 class AlpakaCreds:
